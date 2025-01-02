@@ -1,0 +1,158 @@
+img {
+
+    width: 270px;
+    height: 130px;
+    margin-bottom: -60px;
+    margin-top: 30px;
+    padding-top: 50px;
+    margin-left: -15px;
+}
+
+#p1 {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    line-height: 30px;
+    margin-left: -15px;
+
+}
+
+* {
+    margin-left: 40px;
+    margin-top: 40px;
+    padding: 0%;
+}
+
+
+.outerbox {
+    position: relative;
+    clear: both;
+
+}
+
+.innerbox {
+    float: right;
+    width: 370px;
+    height: 370px;
+    border-radius: 10px;
+    position: absolute;
+    top: -2px;
+    right: 130px;
+    background-color: #fff;
+    box-shadow: 1px 4px 10px 2px rgb(101, 94, 94, 0.4);
+
+}
+
+input {
+    width: 300px;
+    padding: 15px;
+    font-size: 16px;
+    margin-left: -22px;
+    margin-top: 20px;
+    border: 1px solid #e0e1dd;
+    border-radius: 6px;
+    outline: none;
+
+
+}
+ 
+
+#login {
+    width: 330px;
+    padding: 12px;
+    font-size: 16px;
+    margin-left: -22px;
+    margin-top: 20px;
+    background-color: #0866ff;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 6px;
+    border: none;
+}
+
+#login:hover {
+    cursor: pointer;
+}
+
+#a1 {
+    color: #0866ff;
+    font-size: 14px;
+    font-weight: 500;
+    font-size: 14px;
+    position: relative;
+    left: 50px;
+    line-height: 60px;
+    font-family: sans-serif;
+    margin-left: 35px;
+
+
+}
+
+#a1:hover {
+    cursor: pointer;
+    border-bottom: 2px solid #0866ff;
+
+
+
+}
+
+#cna {
+    background-color: #42b72a;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    width: 220px;
+    padding: 12px;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 35px;
+    border: none;
+
+}
+
+#email {
+    margin-top: -15px;
+
+}
+
+#cna:hover {
+    cursor: pointer;
+    background-color: green;
+}
+
+input:focus {
+    border-color: #0866ff;
+    caret-color: #0866ff;
+    
+
+}
+#a2{
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    
+}
+#p2{
+    font-family: sans-serif;
+    font-size: 12px;
+}
+#a2:hover{
+    cursor: pointer;
+    border-bottom: 2px solid #001219;
+    
+}
+.cp{
+    margin-top: 67px;
+    
+}
+#a3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 1px;
+    color: #001219;
+}
+  
